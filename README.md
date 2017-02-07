@@ -22,7 +22,7 @@ If you are using Maven, add code below:
 johhnyhax
 
 ######Special thanks to:
-ProgrammingWizzard
+ProgrammingWizzard,
 000
 
 ####Goals
