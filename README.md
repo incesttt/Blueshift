@@ -16,6 +16,14 @@ If you are using Maven, add code below:
 </dependency>
 ```
 
+###Author and some info
+
+######Author:
+johhnyhax
+
+######Special thanks to:
+ProgrammingWizzard
+000
 
 ####Goals
 - [ ] Upload first release of *GUI*
