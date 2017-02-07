@@ -23,7 +23,8 @@ johhnyhax
 
 ######Special thanks to:
 ProgrammingWizzard,
-000
+000,
+ZejlX
 
 ####Goals
 - [ ] Upload first release of *GUI*
