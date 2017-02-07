@@ -1,5 +1,6 @@
 package net.johhny.blueshift;
 
+import net.johhny.blueshift.Components.RButton;
 import net.johhny.blueshift.Components.RFrame;
 import net.johhny.blueshift.Components.RPanel;
 
@@ -11,6 +12,7 @@ public class Start {
 
     private RPanel panel;
     private RFrame frame;
+    private RButton button;
 
     public static void main(String[] args){
 
@@ -24,5 +26,6 @@ public class Start {
         frame.setSize(300,300);
         frame.setVisible(true);
         frame.setContentPane(panel);
+
     }
 }
