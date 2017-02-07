@@ -6,5 +6,7 @@ import javax.swing.*;
  * Created by johhnyhax
  *     on 06.02.17.
  */
-public class RLabel extends JComponent {
+public class RLabel extends JLabel{
+
+
 }

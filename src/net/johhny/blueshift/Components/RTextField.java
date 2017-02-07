@@ -6,5 +6,6 @@ import javax.swing.*;
  * Created by johhnyhax
  *     on 06.02.17.
  */
-public class RTextField extends JComponent {
+public class RTextField extends JTextField{
+
 }

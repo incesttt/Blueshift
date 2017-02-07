@@ -4,7 +4,8 @@ import javax.swing.*;
 
 /**
  * Created by johhnyhax
- *     on 06.02.17.
+ *     on 06.02.18.
  */
-public class RTextArea extends JTextArea {
+public class RPanel extends JPanel{
+
 }
