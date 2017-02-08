@@ -7,7 +7,8 @@ Download using
 ```
 git clone https://github.com/johhnyhax/Blueshift/
 ```
-If you are using Maven, add code below:
+Blueshift is using Maven technology. Add code below to use Blueshift.
+
 ```
 <dependency>
   <groupId>net.johhny.blueshift</groupId>
@@ -15,6 +16,7 @@ If you are using Maven, add code below:
   <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
+
 
 ###Author and some info
 
