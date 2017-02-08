@@ -11,8 +11,8 @@ Blueshift is using Maven technology. Add code below to use Blueshift.
 
 ```
 <dependency>
-  <groupId>net.johhny.blueshift</groupId>
-  <artifactId>Blueshift</artifactId>
+  <groupId>net.johhny</groupId>
+  <artifactId>blueshift</artifactId>
   <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
