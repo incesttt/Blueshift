@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c85f6048-6ba3-45e0-8dbd-a5a9c40d745f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RLabel.java" afterPath="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RLabel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextField.java" afterPath="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextField.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,6 +72,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="RTextField.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,24 +114,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RLabel.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RLabel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/johhny/blueshift/Components/RLabel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="1098">
+              <caret line="61" column="1" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RTextArea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -139,6 +139,8 @@
     <findStrings>
       <find>RButton</find>
       <find>button</find>
+      <find>label</find>
+      <find>textField</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,13 +156,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/JFrame.java" />
         <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RFrame.java" />
-        <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextField.java" />
         <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextArea.java" />
         <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RPanel.java" />
         <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Start.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RButton.java" />
         <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RLabel.java" />
+        <option value="$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextField.java" />
       </list>
     </option>
   </component>
@@ -694,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486578887760</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="RLabel is now ready to basic use.">
+      <created>1486585212614</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1486585212614</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -741,7 +750,8 @@
     <MESSAGE value="Added maven." />
     <MESSAGE value="Updated source code." />
     <MESSAGE value="Add Maven support." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Maven support." />
+    <MESSAGE value="RLabel is now ready to basic use." />
+    <option name="LAST_COMMIT_MESSAGE" value="RLabel is now ready to basic use." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -887,14 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -973,11 +975,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/johhny/blueshift/Components/RLabel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="1098">
+          <caret line="61" column="1" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/johhny/blueshift/Components/RTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
